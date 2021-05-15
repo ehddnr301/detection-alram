@@ -4,7 +4,7 @@
 
 ## TODO
 
-- [ ] Server
+- [x] Server
 - [ ] SocketIO
 - [ ] Page html
 - [ ] Page Css
